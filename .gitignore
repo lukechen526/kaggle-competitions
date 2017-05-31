@@ -102,3 +102,6 @@ ENV/
 
 # Kaggle
 input/
+
+# Keras
+*.model
